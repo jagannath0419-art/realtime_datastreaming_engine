@@ -1,9 +1,3 @@
-Intern Credentials :- 
-
-Intern ID : CITS2769 ,
-Name : Jagannath Sandip Ansurkar,
-Domain : Data Analytics.
-
 Project Name :- Real-Time Data Streaming
 
 Description: A foundational technical lab focused on event-driven architectures and high-throughput messaging.
